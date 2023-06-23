@@ -2,18 +2,13 @@ from setuptools import setup, find_packages
 import codecs
 import os
 
-here = os.path.abspath(os.path.dirname(__file__))
-
-with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
-    long_description = "\n" + fh.read()
-
 setuptools.setup(
    name = "official_tiershop_macromedia_angel",
    version = "0.0.1",
    author = "Angel Anane",
    author_email = "aakuaanane@stud.macromedia.de",
    description = "Ein Tiershop",
-   long_description = long_description,
+   long_description = a Aninal shop,
    long_description_content_type = "text/markdown",
    url = "https://github.com/angelanane/official_tiershop_macromedia_angel",
    project_urls = {
