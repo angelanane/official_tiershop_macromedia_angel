@@ -1,6 +1,4 @@
-from setuptools import setup, find_packages
-import codecs
-import os
+from setuptools import
 
 setuptools.setup(
    name = "official_tiershop_macromedia_angel",
@@ -21,5 +19,5 @@ setuptools.setup(
    ],
    package_dir = {"": "src"},
    packages = setuptools.find_packages(where = "src"),
-   python_requires = ">=3.6", 
+   python_requires = ">= 3.10.11", 
 ) 
