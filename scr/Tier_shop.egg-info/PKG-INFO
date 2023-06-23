@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: official_tiershop_macromedia_angel
+Version: 3.9.13.final.0
+Summary: A Animalshop to buy dogs, cats and birds
+Home-page: https://github.com/angelanane/official_tiershop_macromedia_angel
+Author: Angel Anane
+Author-email: aakuaanane@stud.macromedia.de
+License: MIT
+Project-URL: Bug Tracker,https://github.com/angelanane/official_tiershop_macromedia_angel/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: MIT License
+Classifier: Operating System 
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.LIC
+
+# Tiershop Edens Creation
+
+

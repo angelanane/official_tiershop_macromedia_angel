@@ -1,0 +1,15 @@
+LICENSE.LIC
+README.md
+pyproject.toml
+setup.py
+src/official_tiershop_macromedia_angel/PKG-INFO
+src/official_tiershop_macromedia_angel/SOURCES.txt
+src/official_tiershop_macromedia_angel/dependency_links.txt
+src/official_tiershop_macromedia_angel/top_level.txt
+src/official_tiershop_macromedia_angel/__init__.py
+src/official_tiershop_macromedia_angel/main.py
+src/official_tiershop_macromedia_angel/animals.py
+src/official_tiershop_macromedia_angel/dog.py
+src/official_tiershop_macromedia_angel/bird.py
+src/official_tiershop_macromedia_angel/cat.py
+src/official_tiershop_macromedia_angel/the_animals.json
