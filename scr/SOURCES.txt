@@ -1,0 +1,10 @@
+LICENSE.LIC
+README.md
+pyproject.toml
+setup.py
+src/Macromedia_demo_pkg_2022.egg-info/PKG-INFO
+src/Macromedia_demo_pkg_2022.egg-info/SOURCES.txt
+src/Macromedia_demo_pkg_2022.egg-info/dependency_links.txt
+src/Macromedia_demo_pkg_2022.egg-info/top_level.txt
+src/macromedia_package/__init__.py
+src/macromedia_package/example.py
