@@ -1,8 +1,12 @@
-import setuptools 
+from setuptools import setup, find_packages
+import codecs
+import os
 
-with open("README.md", "r", encoding="utf-8") as fh: 
-   long_description = fh.read()
- 
+here = os.path.abspath(os.path.dirname(__file__))
+
+with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
+    long_description = "\n" + fh.read()
+
 setuptools.setup(
    name = "official_tiershop_macromedia_angel",
    version = "0.0.1",
